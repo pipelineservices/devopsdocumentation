@@ -6,4 +6,5 @@ Refer: https://learn.microsoft.com/en-us/azure/devops/pipelines/release/define-m
  
 * 
 ![alt text](images/Azclassicpipeline.png)
+![alt text](images/Azclassicpipeline1.png)
 
